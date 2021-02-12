@@ -10,7 +10,7 @@ export const Balloons = styled.View`
   justify-content: center;
   min-height: 70px;
   padding: 13px;
-  width: 65%;
+  width: 70%;
 `;
 
 export const BallonContainer = styled.View`
