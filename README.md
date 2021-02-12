@@ -34,5 +34,5 @@ When get this information, you can use a api POST to save on DB or save in local
 2. Start and run application - yarn
 
 ```sh
-yarn start && cd/ios pod install .. npx-react-native run-ios
+yarn install && ios pod install .. npx-react-native run-ios
 ```
