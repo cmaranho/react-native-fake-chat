@@ -1,15 +1,12 @@
 # React Native Fake Chat 🤖
 
-<!-- PROJECT SHIELDS -->
-
-[![Build Status][build-shield]]()
-[![Contributors][contributors-shield]]()
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 ## About Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<br>
+<img height="700" src="https://github.com/cmaranho/react-native-fake-chat/blob/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-02-12%20at%2014.38.34.png?raw=true" />
+<img height="700" src="https://github.com/cmaranho/react-native-fake-chat/blob/main/img/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-02-12%20at%2014.38.57.png?raw=true" />
+<br>
+<br>
 
 A fake chat to emulate a bot to get firsts information user. 📲
 
